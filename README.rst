@@ -803,7 +803,7 @@ Blogs
 * **The Spectator** Shakir's Machine Learning Blog:
   [`Link <http://blog.shakirm.com/>`_]
 
-* **WILDML**:
+* **WILDML** Denny Britz's ML and NLP blog:
   [`Link <http://www.wildml.com/about/>`_]
 
 * **Distill blog**:
@@ -820,9 +820,6 @@ Blogs
 
 * **i am trask** A Machine Learning Craftsmanship Blog:
   [`Link <http://iamtrask.github.io>`_]
-  
-* **WildML** Denny Britz's ML and NLP blog:
-  [`Link <http://www.wildml.com/>`_]
 
 
 ************
