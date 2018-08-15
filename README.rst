@@ -820,6 +820,9 @@ Blogs
 
 * **i am trask** A Machine Learning Craftsmanship Blog:
   [`Link <http://iamtrask.github.io>`_]
+  
+* **WildML** Denny Britz's ML and NLP blog:
+  [`Link <http://www.wildml.com/>`_]
 
 
 ************
